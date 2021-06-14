@@ -2,10 +2,10 @@
   "response": [
     {
       "oem": "OnePlus",
-      "name": "ONEPLUS A5000",
+      "name": "Oneplus 5",
       "codename": "cheeseburger",
-      "filename": "Havoc-OS-v3.9-20200928-cheeseburger-Official-GApps.zip",
-      "version": "3.9",
+      "filename": "Havoc-OS-v4.6-20210614-cheeseburger-Official-GApps.zip",
+      "version": "4.6",
       "romtype": "Official",
       "variant": "GApps",
       "maintainer": "",
