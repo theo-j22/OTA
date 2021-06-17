@@ -1,6 +1,4 @@
 {
-  "response": [
-    {
       "oem": "Xiaomi",
       "name": "havoc_raphael",
       "codename": "raphael",
@@ -15,6 +13,4 @@
       "url": "https://sourceforge.net/projects/havoc-os/files/raphael/Havoc-OS-v3.9-20200918-raphael-Official.zip/download",
       "group": "https://t.me/havoc_raphael",
       "changelog": ""
-    }
-  ]
 }
